@@ -48,7 +48,7 @@ def otp(key):
     """Generate a one-time password using TOTP."""
     password = keyring.get_password(__name__, key)
     try:
-        totp = onetimepass.get_totp(password)
+        totp = onetimepass.get_totp(password, as_string=True)
     except Exception as e:
         click.echo(e)
     else:
