@@ -63,6 +63,12 @@ __ http://limeburst.net
 Changelog
 ---------
 
+Version 0.1.1
+`````````````
+
+Bugfix release. Released on March 6, 2015.
+
+
 Version 0.1.0
 `````````````
 
