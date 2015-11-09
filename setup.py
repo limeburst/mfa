@@ -21,9 +21,9 @@ setup(
         'console_scripts': ['mfa = mfa.cli:cli']
     },
     install_requires=[
-        'click',
-        'keyring',
-        'onetimepass'
+        'click == 5.1',
+        'keyring == 5.6',
+        'onetimepass = 1.0.1'
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
