@@ -1,3 +1,20 @@
+WARNING
+=======
+
+This software is no longer maintained nor recommended.
+
+Recommended alternatives resistant to phishing attacks are:
+
+* WebAuthn__ for supported websites
+* 1Password__ with autofill__ for others
+
+Stay safe online!
+
+__ https://webauthn.io/
+__ https://1password.com/
+__ https://support.1password.com/one-time-passwords/
+
+
 mfa
 ===
 
